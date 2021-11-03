@@ -33,13 +33,13 @@ svg {
   margin-bottom: 1rem;
 }
 
-  a:hover {
-    color: #000;
-  }
+a:hover {
+  color: #000;
+}
 
-  h1 {
-    font-size: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
+h1 {
+  font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
