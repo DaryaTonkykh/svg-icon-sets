@@ -59,7 +59,7 @@ section {
   grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   gap: 6vmin;
-  margin: 1.5rem
+  margin: 1.5rem;
 }
 
 article, div {
