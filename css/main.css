@@ -1,7 +1,17 @@
 html {
   box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: Overpass, sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  color: #fff;
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
 }
